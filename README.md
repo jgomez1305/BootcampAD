@@ -6,15 +6,15 @@
 
 Este repositorio alberga un proyecto de análisis de datos enfocado en la obesidad y su relación con los hábitos alimenticios y la condición física. El objetivo principal de este proyecto es analizar y comprender los diferentes tipos de obesidad según el IMC (Índice de Masa Corporal) y cómo están influenciados por los hábitos alimenticios y la condición física.
 
-### Objetivo del Proyecto
+## Objetivo del Proyecto
 
 - Visualizar de manera efectiva los patrones y tendencias identificados en los datos utilizando herramientas Power BI para la visualización de los datos y Python para la limpieza y análisis de datos.
 
-### Contenido del Repositorio
+## Contenido del Repositorio
 
-- **Conjuntos de Datos**: Incluye los datos utilizados para el analisis, la fuente de datos se obtuvo de Kaggle adjunto el enlace. [Aqui](https://www.kaggle.com/code/pmrich/obesitydataset-eda-data-prep-ml-hypertuning#About-the-Data).
+- **Conjuntos de Datos**: La fuente de datos se obtuvo de Kaggle adjunto el enlace. [Aqui](https://www.kaggle.com/code/pmrich/obesitydataset-eda-data-prep-ml-hypertuning#About-the-Data).
   
-- **Notebooks de limpieza de datos: Contiene notebook utilizados para la limpieza de datos en Google Colab.[Scripts](https://github.com/jgomez1305/BootcampAD/blob/main/scripts.ipynb)
+- **Notebooks de limpieza de datos: Notebook hecho para la limpieza de datos en Google Colab.[Scripts](https://github.com/jgomez1305/BootcampAD/blob/main/scripts.ipynb)
   
 - **Visualizaciones**: Informe que presenta los resultados del análisis. Este informe incluye visualizaciones en Power BI que muestran los tipos de obesidad según el IMC y su relación con la alimentación y la condición física.[Informe]().
 
@@ -22,7 +22,7 @@ Este repositorio alberga un proyecto de análisis de datos enfocado en la obesid
 - Queries[]()
 
 
- ### Documentación del Desarrollo
+ ## Documentación del Desarrollo
 
 - **Tecnologías Utilizadas**: En este proyecto, se emplearon varias tecnologías para el análisis de datos y la visualización, incluyendo Power BI y Python. Se utilizaron consultas DAX en Power BI y scripts en Python para la limpieza y análisis de datos.
 
