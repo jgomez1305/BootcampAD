@@ -14,7 +14,7 @@ Este repositorio alberga un proyecto de análisis de datos enfocado en la obesid
 
 - **Conjuntos de Datos**: La fuente de datos se obtuvo de Kaggle adjunto el enlace. [Aqui](https://www.kaggle.com/code/pmrich/obesitydataset-eda-data-prep-ml-hypertuning#About-the-Data).
   
-- **Notebooks de limpieza de datos**: Notebook hecho para la limpieza de datos en Google Colab.[Scripts](https://github.com/jgomez1305/BootcampAD/blob/main/scripts.ipynb)
+- **Notebook de limpieza de datos**: Notebook hecho para la limpieza de datos en Google Colab.[Scripts](https://github.com/jgomez1305/BootcampAD/blob/main/scripts.ipynb)
   
 - **Visualizaciones**: Informe que presenta los resultados del análisis. Este informe incluye visualizaciones en Power BI que muestran los tipos de obesidad según el IMC y su relación con la alimentación y la condición física.[Informe]().
 
