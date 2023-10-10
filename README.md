@@ -2,15 +2,15 @@
 [Google Slides](https://docs.google.com/presentation/d/1NsUyo5E2PgmULSgXopyybw4zE7hvJ_yEgRsq_6uFtpo/edit?usp=sharing)
 
 
-# Proyecto de Análisis de Obesidad basada en Hábitos Alimenticios y Condición Física
+## Proyecto de Análisis de Obesidad basada en Hábitos Alimenticios y Condición Física
 
 Este repositorio alberga un proyecto de análisis de datos enfocado en la obesidad y su relación con los hábitos alimenticios y la condición física. El objetivo principal de este proyecto es analizar y comprender los diferentes tipos de obesidad según el IMC (Índice de Masa Corporal) y cómo están influenciados por los hábitos alimenticios y la condición física.
 
-## Objetivo del Proyecto
+### Objetivo del Proyecto
 
 - Visualizar de manera efectiva los patrones y tendencias identificados en los datos utilizando herramientas Power BI para la visualización de los datos y Python para la limpieza y análisis de datos.
 
-## Contenido del Repositorio
+### Contenido del Repositorio
 
 - **Conjuntos de Datos**: Incluye los datos utilizados para el analisis, la fuente de datos se obtuvo de Kaggle adjunto el enlace. [Aqui](https://www.kaggle.com/code/pmrich/obesitydataset-eda-data-prep-ml-hypertuning#About-the-Data).
   
@@ -22,7 +22,7 @@ Este repositorio alberga un proyecto de análisis de datos enfocado en la obesid
 - Queries[]()
 
 
-  ## Documentación del Desarrollo
+ ### Documentación del Desarrollo
 
 - **Tecnologías Utilizadas**: En este proyecto, se emplearon varias tecnologías para el análisis de datos y la visualización, incluyendo Power BI y Python. Se utilizaron consultas DAX en Power BI y scripts en Python para la limpieza y análisis de datos.
 
