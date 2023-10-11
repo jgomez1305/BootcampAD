@@ -21,7 +21,7 @@ Contiene una presentación de Google Slides, que incluye información sobre el o
 
 - [Conjuntos de Datos](https://www.kaggle.com/code/pmrich/obesitydataset-eda-data-prep-ml-hypertuning#About-the-Data): Aquí se encuentran los datos que utilizamos para nuestros análisis, con enlace a la fuente en Kaggle.
 - [Notebooks de Limpieza de Datos](https://github.com/jgomez1305/BootcampAD/blob/main/scripts.ipynb): El cuaderno utilizado en Google Colab para la limpieza de datos.
-- [Visualizaciones]([enlace al informe](https://app.powerbi.com/reportEmbed?reportId=84e215ca-f35c-48ec-bee2-c5fbfc990a82&autoAuth=true&ctid=2bac32fd-d9a2-40d9-a272-3a35920f5607)): Un informe en Power BI que presenta visualmente los hallazgos de nuestro análisis.
+- [Visualizaciones](https://app.powerbi.com/reportEmbed?reportId=84e215ca-f35c-48ec-bee2-c5fbfc990a82&autoAuth=true&ctid=2bac32fd-d9a2-40d9-a272-3a35920f5607)): Un informe en Power BI que presenta visualmente los hallazgos de nuestro análisis.
 - [Presentación](https://docs.google.com/presentation/d/1NsUyo5E2PgmULSgXopyybw4zE7hvJ_yEgRsq_6uFtpo/edit#slide=id.g1e7bee4d601_0_194): Una presentación en Google Slides.
 
 
