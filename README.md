@@ -3,7 +3,7 @@
 
 ## Objetivo del Proyecto
 
-- Visualizar de manera efectiva los patrones y tendencias identificados en los datos utilizando herramientas como Power BI para la visualización de los datos y Python para la limpieza y análisis de datos.
+Visualizar de manera efectiva los patrones y tendencias identificados en los datos utilizando herramientas como Power BI para la visualización de los datos y Python para la limpieza y análisis de datos.
 
 ## Contenido del Repositorio
 
