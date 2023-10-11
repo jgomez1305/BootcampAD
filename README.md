@@ -37,8 +37,3 @@ Este repositorio alberga un proyecto de análisis de datos enfocado en la obesid
     - Identificar factores adicionales que pueden estar relacionados con la obesidad.
     - Explorar tendencias de obesidad en diferentes grupos demográficos.
 
-## Uso del Proyecto
-
-Este proyecto se proporciona para su uso y exploración. Puedes utilizar los datos y el código aquí proporcionados para realizar análisis adicionales o personalizar las visualizaciones según tus necesidades. Las visualizaciones en Power BI te permiten observar los diferentes tipos de obesidad según el IMC y su relación con la alimentación y la condición física.
-
-
