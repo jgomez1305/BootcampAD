@@ -1,11 +1,12 @@
 # BootcampAD
-[Google Slides](https://docs.google.com/presentation/d/1NsUyo5E2PgmULSgXopyybw4zE7hvJ_yEgRsq_6uFtpo/edit?usp=sharing)
 
 ## Objetivo del Proyecto
 
 Visualizar de manera efectiva los patrones y tendencias identificados en los datos utilizando herramientas como Power BI para la visualización de los datos y Python para la limpieza y análisis de datos.
 
 ## Contenido del Repositorio
+
+- **Presentacion**: La presentacion contiene el objetivo, la problematica, los datos utilizados, resultados e interpretacion y conclusion [Google Slides](https://docs.google.com/presentation/d/1NsUyo5E2PgmULSgXopyybw4zE7hvJ_yEgRsq_6uFtpo/edit?usp=sharing).
 
 - **Conjuntos de Datos**: La fuente de datos se obtuvo de Kaggle adjunto el enlace  [Aqui](https://www.kaggle.com/code/pmrich/obesitydataset-eda-data-prep-ml-hypertuning#About-the-Data).
   
