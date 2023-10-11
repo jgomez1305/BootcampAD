@@ -41,9 +41,9 @@ Contiene una presentación de Google Slides, que incluye información sobre el o
     - Explorar tendencias de obesidad en diferentes grupos demográficos.
  
 
-## Documentación y Futuras Investigaciones
+## Futuras Investigaciones
 
-Además, proporcionamos documentación detallada sobre las tecnologías utilizadas en el proyecto y los conocimientos adquiridos. Este proyecto abre oportunidades para futuras investigaciones en áreas como:
+Abro oportunidades de futuras investigaciones en áreas como:
 
 - Identificación de factores adicionales relacionados con la obesidad.
 - Exploración de tendencias de obesidad en diferentes grupos demográficos.
