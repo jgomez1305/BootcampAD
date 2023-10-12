@@ -1,5 +1,9 @@
 # BootcampAD
 
+## Proyecto de Análisis de Obesidad basada en Hábitos Alimenticios y Condición Física
+
+Este repositorio alberga un proyecto de análisis de datos enfocado en la obesidad y su relación con los hábitos alimenticios y la condición física. El objetivo principal de este proyecto es analizar y comprender los diferentes tipos de obesidad y cómo están influenciados por los hábitos alimenticios y la condición física.
+
 ## Descripción del Proyecto
 
 En este proyecto, hemos realizado las siguientes etapas:
